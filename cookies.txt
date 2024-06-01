@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.terraria.org	TRUE	/	FALSE	1999999999	connect.sid	s%3A13MjvaHYmOfAAjBo-5DQX5H7D8A5cf8z.frx3ZxiDiugR5rMVXOhLKg3chEz4VI8YtOrMwnTY2GA
+
